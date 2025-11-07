@@ -1,6 +1,6 @@
 # Sports Predictor AI
 
-A web application for predicting sports match outcomes using machine learning, historical data, betting odds, and expert opinions.
+A vibe coded web application for predicting sports match outcomes using machine learning, historical data, betting odds, and expert opinions. (not done!)
 
 ## Features
 
